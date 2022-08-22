@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Modiefed
+# Tic-Tac-Toe-Modified
 I am a React beginner! 
 I was trying to learn to react by building the game from the official tutorial here:https://reactjs.org/tutorial/tutorial.html
 I have finished the game and the 6 challenges except challenge 4:
